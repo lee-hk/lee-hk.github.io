@@ -1,63 +1,66 @@
 ---
-title: "CentOS 7 예비학교"
+title: "CentOS 7 예비학교 목차"
 date: 2019-04-02 09:00:00 -0400
 categories: jekyll update
 ---
 
-#샵
-======
 
-##샵샵
-------
+##1장. 서버 구축에 필요한 기본 지식
+1.1 서버를 설치하고 할 수 있는 일
+1.2 네트워크 기초 지식 익히기
+1.3 서버를 외부 공개할 때 주의할 점
 
-###샵샵샵
+##3장. 리눅스 기본 지식과 사용법
+3.1 GUI 환경ㄱ와 콘솔 환경
+3.3 콘솔 명령어 사용법과 root(관리자) 권한
+3.4 텍스트 편집기 사용하기
+3.5 패키지 관리하기
+3.6 사용자 관리하기 
+3.7 서비스 관리하기
+3.8 사용자 또는 그룹 접근 권한 관리하기
 
-*별별*
+##4장. 스토리지 관리하기
+4.1 리눅스 파일시스템과 스토리지
+4.2 파일 크기와 디스크 용량
+4.3 디스크 관리하기
+4.4 RAID
 
-/슬래시슬래시/
+##5장. 네트워크 설정하기
+5.1 서버 운영을 위한 네트워크 설정하기
+5.2 동적 DNS로 도메인 설정하기
 
-_밑줄밑줄_
+##6장. DNS 서버 구축하기
+6.1 DNS 서버란?
+6.3 BIND 설치하기
 
-`헤이헤이`
+##7장. 파일과 프린터 공유하기
+7.1 파일 공유 서버 설치 및 설정하기
 
-``헤이
-헤이``
+##8장. 원격으로 서버 관리하기
+8.1 SSH 서버
+8.2 OpenSSH 설치 및 설정하기
+8.3 SSH 기본 사용법
+8.4 키 교환 방식 인증
 
-```헤이
-헤이
-헤이```
+##9장. FTP 서버 구축하기
+9.1 FTP 서버 설치 및 설정하기
+9.2 FTP 서버 접속하기
 
+##10장. 메일 서버 구축하기
+10.1 메일 서버 설치 및 설정하기
 
-그냐ㅐㅇ 그냐 그냥
+##11장. 웹 서버 구축하기
+11.1 웹 서버 설치 및 설정하기
+11.4 SSL 암호화 및 보안 인증서 발급하기
 
+##12장. 데이터베이스 서버 구축하기
+12.1 데이터베이스 설치 및 설정하기
+12.2 데이터베이스 기본 사용법
 
+##15장. 서버 보안
+15.1 방화벽 설정하기
+15.3 서버 해킹 방지하기
+15.4 로그 확인하기
+15.5 백업하기
 
-
-
-
-
-
-
-
-
-
-
-
-
- `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
-
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-​```python
-def print_hi(name):
-  print("hello", name)
-print_hi('Tom')
-​```
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+##부록. 서버 공격 관련 주요 용어
